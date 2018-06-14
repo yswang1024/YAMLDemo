@@ -1,0 +1,12 @@
+context:
+ initializer:
+  classes: com.example.yamldemo.initializer.ConfigInitializer
+server-developing :
+ ip : 192.168.1.2
+ port : 8080
+server-production :
+ ip : 192.168.1.2
+ port : 9090
+server-abc :
+ ip : 192.168.1.4
+ port : 1010
